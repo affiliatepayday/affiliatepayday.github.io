@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![image](https://scontent-den4-1.xx.fbcdn.net/v/t1.0-9/s960x960/87431456_108164767448514_7756264182667804672_o.png?_nc_cat=110&_nc_sid=a61e81&_nc_ohc=Z5gFl5V9FKoAX9vDXzh&_nc_ht=scontent-den4-1.xx&oh=f0d9705191b15ba18a72c5ce2eeb26a2&oe=5EB9895D)
+![How Affiliate Payday Rotators Work](https://scontent-den4-1.xx.fbcdn.net/v/t1.0-9/87033797_105452724386385_4136299358565957632_o.png?_nc_cat=105&_nc_sid=a61e81&_nc_ohc=l95lll_PdiAAX_eS3ie&_nc_ht=scontent-den4-1.xx&oh=35ac9a6bc8d9359d62a22634446bc442&oe=5EFD5A39)
 
 You can use an [editor on GitHub](https://github.com/affiliatepayday/affiliatepayday.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
