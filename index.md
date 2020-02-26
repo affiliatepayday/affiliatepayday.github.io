@@ -1,6 +1,3 @@
----
-layout: default
----
 ## Affiliate Payday Product Rotator
 
 The affiliate Payday product rotator is very simple in concept.
