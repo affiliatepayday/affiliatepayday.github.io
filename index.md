@@ -13,3 +13,5 @@ The affiliate Payday product rotator is very simple in concept.
 To see the rotator in action [click here](https://afpayday.com/payday/1/) or visit the side link "affiliate payday product".
 
 Product rotator will load a new product once every 10 minutes. 
+
+If you want to learn more and understand how our members work together for the success of each other you can [JOIN AFFILIATE PAYDAY](https://afpayday.com) here. 
