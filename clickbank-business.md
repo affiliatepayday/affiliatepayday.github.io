@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## What is clickbank?
+## What is Clickbank?
 
 ![Clickbank](https://i1.wp.com/www.giblink.com/wp-content/uploads/2016/08/clickbank-affiliate-marketing.jpg?fit=650%2C270&ssl=1)
 
@@ -10,7 +10,7 @@ When I first began in the world of affilate marketing one of the first sites I c
 
 Clickbank is often one of the first websites new affiliate marketers try out and many find a vast amount of success with it. There are thousands of high quality products. Some of these products are training courses, some are ebooks, some are software packages, and some are services. At one point, clickbank was filled with scammy garbage products but clickbank has, over the years, cleaned up their service and today most of the products software are actually relatively high quality.
 
-## What is a clickbank Business?
+## What is a Clickbank Business?
 
 A lot of people who are just starting out, struggle with affiliate marketing. It takes time, it takes a lot of trial and error, and it takes money to run ads. Starting an affiliate marketing business is certainly not easy. This is where a clickbank business can come into play. A clickbank business is a type of business model build around the clickbank service. It is a business designed to help new affiliate marketers create websites or web stores. 
 
